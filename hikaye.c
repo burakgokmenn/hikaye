@@ -8,10 +8,8 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //iREM TOKTAŞ
           // EMSAL İREM DEMİREL
           //İREM TOPSAKAL
-
-          printf("Ormanda kaybolan iki kardeş kendilerine kalacak biryer bulmak için yola koyuldular..");//Mustafa Saput
-        printf("malzemeyi arap faikten aldım karabükte ikinci yükleme yapılıyordu adanaya kadarda ben kullanıyordum kamyonu..");  //Yasin ERGÜT
-
+          //Mustafa Saput
+          //Yasin ERGÜT
           //melike yilmaz
           //Ayşe Nur Karakoyunlu
           //elif zeren boyraz
@@ -21,7 +19,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //Muhammed eren zengel
           //Ömer Faruk korkunç
           //Aminenur CAN
-          //BERRA ADISLI
+          printf("Uyandıklarında, bir yüz yılın geçtiğini fark ettiklerinde gözlerine inanamadılar.\n");//BERRA ADISLI
           //Eftal taha karataş
           //Oğuzhan koylan
           //Hasret arslan
