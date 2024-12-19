@@ -13,7 +13,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //Ayşe Nur Karakoyunlu
           //elif zeren boyraz
           //İbrahim TEK
-          //Sıla Kuzan
+          printf("karın şiddeti olaganüstü bir hal almıstı, çocukların ormanda yollarını bulmaları daha da zorlasıyor, cocuklar soguk havada üşüyordu.Soguktan donmamak için hemen bir yer bulmaları ve ısınmaları şarttı.");//Sıla Kuzan
           //Emine Zehra Köseoğlu
           //Muhammed eren zengel
           //Ömer Faruk korkunç
